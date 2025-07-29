@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\test_4\test_4\bin\Debug\net8.0\test_4.exe
+C:\Users\User\source\repos\test_4\test_4\bin\Debug\net8.0\test_4.deps.json
+C:\Users\User\source\repos\test_4\test_4\bin\Debug\net8.0\test_4.runtimeconfig.json
+C:\Users\User\source\repos\test_4\test_4\bin\Debug\net8.0\test_4.dll
+C:\Users\User\source\repos\test_4\test_4\bin\Debug\net8.0\test_4.pdb
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\test_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\test_4.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\test_4.AssemblyInfo.cs
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\test_4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\test_4.dll
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\refint\test_4.dll
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\test_4.pdb
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\test_4.genruntimeconfig.cache
+C:\Users\User\source\repos\test_4\test_4\obj\Debug\net8.0\ref\test_4.dll
